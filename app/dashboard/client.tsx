@@ -143,7 +143,7 @@ export default function DashboardClientPage({ initialUser }: { initialUser: User
                 
                 <div style={{ marginTop: '1rem', marginBottom: '1rem' }}>
                   <Link 
-                    href="/samples/sample-form"
+                    href="/samples"
                     style={{ 
                       fontSize: '0.875rem', 
                       color: 'var(--primary)',
